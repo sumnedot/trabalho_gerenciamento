@@ -1,0 +1,112 @@
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.exe
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.deps.json
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.json
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.dev.json
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\bin\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csprojAssemblyReference.cache
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfo.cs
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\obj\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\User\Documents\curso emanuel\C#\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.genruntimeconfig.cache
+C:\Users\User\Documents\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csprojAssemblyReference.cache
+C:\Users\User\Documents\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfo.cs
+C:\Users\User\Documents\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\User\Documents\GerenciamentoProdutos\obj\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\User\Documents\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\User\Documents\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.exe
+C:\Users\User\Documents\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.deps.json
+C:\Users\User\Documents\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.json
+C:\Users\User\Documents\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.dev.json
+C:\Users\User\Documents\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\User\Documents\GerenciamentoProdutos\bin\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\User\Documents\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\User\Documents\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.genruntimeconfig.cache
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\bin\Debug\net5.0\GerenciamentoProdutos.exe
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\bin\Debug\net5.0\GerenciamentoProdutos.deps.json
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.json
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.dev.json
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\bin\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\bin\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\bin\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\obj\Debug\net5.0\GerenciamentoProdutos.csprojAssemblyReference.cache
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\obj\Debug\net5.0\GerenciamentoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfo.cs
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\obj\Debug\net5.0\GerenciamentoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\obj\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\obj\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\obj\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\User\Documents\GerenciamentoProdutos - Copia\obj\Debug\net5.0\GerenciamentoProdutos.genruntimeconfig.cache
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.exe
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.deps.json
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.json
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.dev.json
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\bin\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csprojAssemblyReference.cache
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfo.cs
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\obj\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\User\Documents\curso emanuel\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.genruntimeconfig.cache
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csproj.AssemblyReference.cache
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfoInputs.cache
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfo.cs
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\obj\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.exe
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.deps.json
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.json
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.dev.json
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\bin\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\emanu\OneDrive\Documentos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.genruntimeconfig.cache
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.exe
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.deps.json
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.json
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.dev.json
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\bin\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csproj.AssemblyReference.cache
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfoInputs.cache
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfo.cs
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\obj\Debug\net5.0\ref\GerenciamentoProdutos.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\emanu\OneDrive\Documentos\cursos\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.genruntimeconfig.cache
+C:\Users\55339\Downloads\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.exe
+C:\Users\55339\Downloads\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.deps.json
+C:\Users\55339\Downloads\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.json
+C:\Users\55339\Downloads\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.runtimeconfig.dev.json
+C:\Users\55339\Downloads\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\55339\Downloads\GerenciamentoProdutos\bin\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\55339\Downloads\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csproj.AssemblyReference.cache
+C:\Users\55339\Downloads\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55339\Downloads\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfoInputs.cache
+C:\Users\55339\Downloads\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.AssemblyInfo.cs
+C:\Users\55339\Downloads\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\55339\Downloads\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.dll
+C:\Users\55339\Downloads\GerenciamentoProdutos\obj\Debug\net5.0\refint\GerenciamentoProdutos.dll
+C:\Users\55339\Downloads\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.pdb
+C:\Users\55339\Downloads\GerenciamentoProdutos\obj\Debug\net5.0\GerenciamentoProdutos.genruntimeconfig.cache
+C:\Users\55339\Downloads\GerenciamentoProdutos\obj\Debug\net5.0\ref\GerenciamentoProdutos.dll

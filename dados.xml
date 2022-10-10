@@ -1,0 +1,35 @@
+<XML>
+    <Produtos>
+        <Prod1>
+            <Nome>001</Nome>
+            <Codigo>01</Codigo>
+            <Custo>100</Custo>
+            <Venda>150</Venda>
+        </Prod1>
+        <Prod2>
+            <Nome>002</Nome>
+            <Codigo>002</Codigo>
+            <Custo>200</Custo>
+            <Venda>250</Venda>
+        </Prod2>
+        <Prod3>
+            <Nome>003</Nome>
+            <Codigo>003</Codigo>
+            <Custo>300</Custo>
+            <Venda>350</Venda>
+        </Prod3>
+        <Prod4>
+            <Nome>004</Nome>
+            <Codigo>004</Codigo>
+            <Custo>400</Custo>
+            <Venda>450</Venda>
+        </Prod4>
+        <Prod5>
+            <Nome>005</Nome>
+            <Codigo>005</Codigo>
+            <Custo>500</Custo>
+            <Venda>550</Venda>
+        </Prod5>
+        
+    </Produtos>
+</XML>
